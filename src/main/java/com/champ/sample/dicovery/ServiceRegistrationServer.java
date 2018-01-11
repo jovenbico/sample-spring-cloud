@@ -1,4 +1,4 @@
-package com.champ.sample;
+package com.champ.sample.dicovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
